@@ -1,7 +1,8 @@
 # Xylophone iOS App
 
 This is a simple one-page iOS app written in Swift 5 and designed with Storyboard. The app is mainly developed to practiced:
-- TODO
+- Play Audio File (AVAudioPlayer)
+- Run a code after a delay
 
 The app designed to run on iPhone 11.
 
